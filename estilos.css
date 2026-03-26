@@ -1,0 +1,18 @@
+body{
+    background-image: url(maxresdefault.jpg);
+    background-size: 120%;
+
+}
+h1{
+    color: #a17f7f;
+}
+h2{
+    color: #af8c8c;
+}
+p{
+    color: #b48989;
+}
+ul{
+    color: #ce9f9f;
+}
+ol{color: #c08f8f;}
